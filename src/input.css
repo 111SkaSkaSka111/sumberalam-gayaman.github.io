@@ -31,10 +31,6 @@
     @apply hover:bg-teal-500 px-2 rounded-md hover:ring-2 ring-black;
 }
 
-.background-fixed {
-    @apply bg-heroimage bg-cover bg-no-repeat bg-fixed;
-}
-
 .ring-focus {
     @apply focus:outline-none focus:border focus:border-secondary focus:ring-1 focus:ring-secondary;
 }

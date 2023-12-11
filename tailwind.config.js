@@ -8,7 +8,7 @@ module.exports = {
             },
 
             backgroundImage: {
-                heroimage: "url('/dist/img/bg.jpg')",
+                heroimage: "",
             },
 
             colors: {
