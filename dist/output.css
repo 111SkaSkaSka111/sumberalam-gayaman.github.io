@@ -820,10 +820,6 @@ video {
   --tw-bg-opacity: 0.8;
 }
 
-.bg-\[url\(\'\/dist\/img\/bg\.jpg\'\)\] {
-  background-image: url('/dist/img/bg.jpg');
-}
-
 .bg-cover {
   background-size: cover;
 }
